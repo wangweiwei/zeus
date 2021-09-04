@@ -1,0 +1,64 @@
+# dependencies
+node_modules
+
+# production
+dist
+dist-ssr
+
+# log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# os or editor folders  
+.DS_Store  
+._*  
+.cache  
+.project  
+.settings  
+.tmproj  
+*.esproj  
+*.sublime-project  
+*.sublime-workspace  
+nbproject  
+thumbs.db  
+*.iml
+tags
+.tern-project
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.tern-project
+
+
+
+# temp file for git conflict merging  
+*.orig  
+*.log  
+*.rej  
+*.swo  
+*.swp  
+*.swn  
+*.sw?
+*.zip  
+*.vi  
+*~  
+*.sass-cache  
+*.tmp.html  
+*.dump
+
+# numerous always-ignore extensions  
+*.bak  
+*.patch  
+*.diff  
+*.err 
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
